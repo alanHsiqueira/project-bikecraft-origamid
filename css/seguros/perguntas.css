@@ -19,7 +19,7 @@
 .perguntas dt{
   display: grid;
   grid-template-columns: auto 1fr auto;
-  allign-items: center;
+  align-items: center;
   gap: 8px;
   cursor: pointer;
 }
