@@ -131,6 +131,7 @@
 
 .orcamento-detalhes li{
   display: flex;
+  gap: 10px;
   align-items: center;
   margin-bottom: 8px;
 }
